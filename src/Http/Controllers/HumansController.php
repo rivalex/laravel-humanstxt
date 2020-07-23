@@ -14,6 +14,6 @@ class HumansController extends Controller
     {
         return response()
             ->view('humans::humans')
-            ->header('Content-Type', 'text/plain');
+            ->header('Content-Type', 'text/plain; charset=utf-8');
     }
 }
