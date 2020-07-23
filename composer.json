@@ -1,23 +1,23 @@
 {
-    "name": "olssonm/l5-humans",
-    "description": "Simple humans.txt routes and views for Laravel 5.",
+    "name": "rivalex/laravel7-humans",
+    "description": "Simple humans.txt routes and views for Laravel 7.",
     "keywords": [
-        "olssonm",
-        "Laravel 5",
+        "rivalex",
+        "Laravel 7",
         "humans.txt"
     ],
-    "homepage": "https://github.com/olssonm/l5-humans",
+    "homepage": "https://github.com/rivalex/laravel7-humans",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcus Olsson",
-            "email": "contact@marcusolsson.me",
-            "homepage": "https://marcusolsson.me"
+            "name": "Alessandro Rivolta",
+            "email": "info@rivalex.com",
+            "homepage": "https://rivalex.com"
         }
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.0"
+        "illuminate/support": "^7.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Olssonm\\Humans\\": "src"
+            "Rivalex\\Humans\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Olssonm\\Humans\\Test\\": "tests"
+            "Rivalex\\Humans\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -43,7 +43,7 @@
         },
         "laravel": {
             "providers": [
-                "Olssonm\\Humans\\ServiceProvider"
+                "Rivalex\\Humans\\ServiceProvider"
             ]
         }
     },
