@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
 
 ![laravel7-humans](https://user-images.githubusercontent.com/907114/40529961-3e562f5a-5ff7-11e8-8eeb-00164e400e77.png)
 
