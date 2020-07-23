@@ -1,6 +1,6 @@
 <?php
 
-namespace Olssonm\Humans\Http\Controllers;
+namespace Rivalex\Humans\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 

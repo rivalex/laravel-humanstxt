@@ -1,4 +1,4 @@
-<?php namespace Olssonm\Humans;
+<?php namespace Rivalex\Humans;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
