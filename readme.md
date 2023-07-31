@@ -3,7 +3,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 
-![laravel7-humans](https://user-images.githubusercontent.com/907114/40529961-3e562f5a-5ff7-11e8-8eeb-00164e400e77.png)
+![laravel-humanstxt](https://user-images.githubusercontent.com/907114/40529961-3e562f5a-5ff7-11e8-8eeb-00164e400e77.png)
 
 ## Thanks to [Marcus Olsson](https://marcusolsson.me/) for this great solution
 
@@ -20,7 +20,7 @@ See [COMPATABILITY.md](COMPATABILITY.md) for full a full compatability chart. El
 Install via composer:
 
 ``` bash
-$ composer require rivalex/laravel7-humans
+$ composer require rivalex/laravel-humanstxt
 ```
 
 Since Laravel > 5.5 the service provider will be automatically added. You can also add the service provider to your `app.php` manually:
