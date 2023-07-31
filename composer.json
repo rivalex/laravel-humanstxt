@@ -1,12 +1,12 @@
 {
-    "name": "rivalex/laravel7-humans",
-    "description": "Simple humans.txt routes and views for Laravel 7|8",
+    "name": "rivalex/laravel-humanstxt",
+    "description": "Simple humans.txt routes and views for Laravel 10",
     "keywords": [
         "rivalex",
-        "Laravel 9",
+        "Laravel",
         "humans.txt"
     ],
-    "homepage": "https://github.com/rivalex/laravel7-humans",
+    "homepage": "https://github.com/rivalex/laravel-humanstxt",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0"
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "orchestra/testbench": "^7.1.0",
