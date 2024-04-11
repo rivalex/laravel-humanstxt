@@ -1,4 +1,4 @@
-# Laravel 7 Humans.txt
+# Laravel 11 Humans.txt
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
